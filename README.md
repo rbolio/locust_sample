@@ -4,7 +4,7 @@
 
 ` $ locust -f ./locustfile.py --host=http://example.com `
 
-View the UI and at 
+View the UI at 
 
 localhost:8089
 
